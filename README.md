@@ -46,7 +46,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ### Jawaban Soal 1
 
-Bukti setup environment telah berhasil di  komputer.
+Bukti setup environment telah berhasil di  komputer..
 
 ![Screenshot](assets-report/01.png)
 
