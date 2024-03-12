@@ -49,5 +49,11 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 Bukti setup environment telah berhasil di  komputer..
 
 ![Screenshot](assets/01.png)
+![Screenshot](assets/02.png)
+![Screenshot](assets/03.png)
+![Screenshot](assets/04.png)
+![Screenshot](assets/05.png)
+![Screenshot](assets/06.png)
+![Screenshot](assets/07.png)
 
 Contoh perubahan.
