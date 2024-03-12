@@ -48,6 +48,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 Bukti setup environment telah berhasil di  komputer..
 
-![Screenshot](src/app/assets-report/01.png)
+![Screenshot](assets/01.png)
 
 Contoh perubahan.
