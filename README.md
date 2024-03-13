@@ -58,4 +58,10 @@ Here’s how it works:
 
 This feature is particularly useful for preserving the state of your application during development, which can save time and improve productivity.
 
+## 4.Practical Assignments
+Try creating another React project using the Remix and Gatsby frameworks . You don't need to push this, just screenshot and explain the differences between the three frameworks (including Next.js ) in file READMEnumber 1.
+
+![Screenshot](assets/09.png)
+![Screenshot](assets/10.png)
+
 Contoh perubahan.
