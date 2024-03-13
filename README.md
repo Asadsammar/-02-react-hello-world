@@ -69,7 +69,7 @@ Create a component MyTextNimName()based on the code from previous question numbe
 ## answer
 I think its because the page.tsx is importing from default function Home, while I create the function MyTextNimName and it is not in the default function. So I have to export from different function first for it to run!
 
-![Screenshot](assets/11.)
+![Screenshot](assets/11.png)
 
 ![Screenshot](assets/12.png)
 
