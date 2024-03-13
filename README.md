@@ -62,6 +62,25 @@ This feature is particularly useful for preserving the state of your application
 Try creating another React project using the Remix and Gatsby frameworks . You don't need to push this, just screenshot and explain the differences between the three frameworks (including Next.js ) in file READMEnumber 1.
 
 ![Screenshot](assets/09.png)
+
 ![Screenshot](assets/10.png)
+## Question 4
+Create a component MyTextNimName()based on the code from previous question number 3. Then call the component. Is there a change in appearance? Why is that ?
+## answer
+I think its because the page.tsx is importing from default function Home, while I create the function MyTextNimName and it is not in the default function. So I have to export from different function first for it to run!
+
+![Screenshot](assets/11.png)
+
+![Screenshot](assets/12.png)
+
+## Question 5
+Create a component MyPage()based on this practical project 1 which contains HTML codes for functions Home(). Then call the component. Is there a change in appearance? Why is that ?
+
+![Screenshot](assets/13.png)
+
+## Question 6
+Use the JSX image code, replace it with NIM, replace your name and image link with your photo (can be from a social media link or other). Push the code and screenshot the results.
+
+![Screenshot](assets/14.png)
 
 Contoh perubahan.
